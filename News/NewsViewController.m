@@ -24,7 +24,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view.
-   
+    NSUserDefaults *userdefaults = [NSUserDefaults standardUserDefaults];
 }
 
 - (void)didReceiveMemoryWarning {
