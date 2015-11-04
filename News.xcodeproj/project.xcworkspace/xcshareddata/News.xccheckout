@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2AABDA90-FDC3-4868-B498-3F11D25133FE</string>
+	<key>IDESourceControlProjectName</key>
+	<string>News</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>67E10D8288F0CF916BAFF94CBB56BE1FE1E877BD</key>
+		<string>ssh://github.com/zuojiajia/Newss.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>News.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>67E10D8288F0CF916BAFF94CBB56BE1FE1E877BD</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/zuojiajia/Newss.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>67E10D8288F0CF916BAFF94CBB56BE1FE1E877BD</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>67E10D8288F0CF916BAFF94CBB56BE1FE1E877BD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Newss</string>
+		</dict>
+	</array>
+</dict>
+</plist>
